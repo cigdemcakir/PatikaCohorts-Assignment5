@@ -1,4 +1,4 @@
-## Genre Controller Integration
+<h2 align="center">Genre Controller Integration</h2>
 
 ### Overview
 This document details the successful addition of the Genre Controller to our project, enhancing our system's capability to manage genre data.
